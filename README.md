@@ -1,2 +1,2 @@
-# Jesses-Project
-This project contains all the content needed for the Project such as the videos, notes and 3D models
+# Solidwork Files
+This is needed for the project to build the receiver and transmitter holder
