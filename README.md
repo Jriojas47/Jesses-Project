@@ -7,4 +7,6 @@ with the stl version so that students can slice it and convert it into the desir
 
 Contains the stand for the transmitter
 ### Receiver Assembly
+![image](https://github.com/user-attachments/assets/e67e5d30-8a22-4cdc-80bc-8ffaf55938db)
+
 Contains the stand for the receiver
